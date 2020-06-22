@@ -1,0 +1,2 @@
+# richirich
+Sample django sharing
